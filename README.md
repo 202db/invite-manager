@@ -2,8 +2,15 @@
 **Commencer**  
 Invite Manager est un Bot Discord avancé, facile à configurer, gratuit. Les instructions pour le configurer sont disponibles [ici] (https://github.com/202db/invite-manager.wiki.git)
 
+# Configuration 
+
+- récupérer le token de votre bot en [cliquant ici](https://discord.com/developers)
+- Une fois le token récupérer, aller dans le fichier : exemple.env.txt et placez le token dedans.
+- Après que vous ayez mis le token, renommez le fichier par .env
+- Ensuite vous pourrez démarrer le bot
+
 **Soutien**  
-Si vous avez besoin d'aide avec le bot, n'hésitez pas à [rejoindre le support](https://discord.gg/WzQGA8A5).
+Si vous avez besoin d'aide avec le bot, n'hésitez pas à [rejoindre le support](https://discord.gg/spacehosts).
 
 **Autres informations**  
 Invite Manager nécessite Node.js v12 ou supérieur.   
